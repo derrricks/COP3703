@@ -1,4 +1,4 @@
-# Group Members: Alexander L. Perez, Derrick Palma, Tyler Weiss, and Bryce Videka
+Group Members: Alexander L. Perez, Derrick Palma, Tyler Weiss, and Bryce Videka
 
 1. Login
     a. User enters 'Username' and 'Password', which will be inserted in to a query of the Customers table and the Employees table. If an entry with any combination of matching values exists, print the appropriate message.
